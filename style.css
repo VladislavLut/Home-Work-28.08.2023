@@ -1,0 +1,21 @@
+table{
+    background-color: #a5c1fc;
+    width: 1000px;
+    border-collapse: collapse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+td{
+    padding: 10px;
+}
+th{
+    padding: 10px;
+    font-size: 15px;
+}
+.white{
+    background-color: white;
+    text-align: center;
+}
+.gray{
+    background-color: #ebebeb;
+    text-align: center;
+}
